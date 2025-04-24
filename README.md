@@ -1,9 +1,9 @@
-# Hi 👋, I'm Matheus Pacífico
+# Hi, I'm Matheus Pacífico
 
 ### An aspiring Full-Stack Software Developer
 
-- 🔭 I’m currently working on [PET-ADS](https://github.com/pet-ads)
-- ⚡ Fun fact: **Yes, I know a little bit of Clojure even though I don't have any proof here!**
+- I’m currently working with [PET-ADS](https://github.com/pet-ads)
+- Current stack: Kotlin/ReactJS
 
 ### Connect with me in:
 <p align="left">
