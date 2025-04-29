@@ -3,7 +3,8 @@
 ### An aspiring Full-Stack Software Developer
 
 - I’m currently working with [PET-ADS](https://github.com/pet-ads)
-- Current stack: Kotlin/ReactJS
+- Backend developer for one of PET's main projects [StArt](https://github.com/pet-ads/systematic)
+- Current stack: Kotlin/Java/ReactJS
 
 ### Connect with me in:
 <p align="left">
