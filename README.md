@@ -2,21 +2,18 @@
 
 I'm a Software Developer with a focus on building robust back-end systems and dynamic front-end experiences. I am passionate about clean architecture, Domain-Driven Design (DDD), and creating efficient, scalable solutions.
 
-- 🎓 I’m currently studying **Analysis and Systems Development** at the **Federal Institute of São Paulo (IFSP)**.
+- 🎓 I’m currently pursuing a degree in **Analysis and Systems Development** at the **Federal Institute of São Paulo (IFSP)**.
 - 💻 I work as a **Back-end Developer** at [**PET-ADS**](https://github.com/pet-ads), where I contribute to the open-source **StArt** tool.
 - 🚀 I also take on freelance projects as a **Full-Stack Developer**, working with technologies like React, Next.js, and Spring Boot.
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ My -Current- Stack
 
 ### Languages
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Frameworks & Libraries
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -28,8 +25,6 @@ I'm a Software Developer with a focus on building robust back-end systems and dy
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
