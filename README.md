@@ -3,8 +3,8 @@
 I'm a Software Developer with a focus on building robust back-end systems and dynamic front-end experiences. I am passionate about clean architecture, Domain-Driven Design (DDD), and creating efficient, scalable solutions.
 
 - 🎓 I’m currently pursuing a degree in **Analysis and Systems Development** at the **Federal Institute of São Paulo (IFSP)**.
-- 💻 I work as a **Back-end Developer** at [**PET-ADS**](https://github.com/pet-ads), where I contribute to the open-source **StArt** tool.
-- 🚀 I also take on freelance projects as a **Full-Stack Developer**, working with technologies like React, Next.js, and Spring Boot.
+- 💻 I work as a **Full-Stack Developer**, you can check my position on **Linkedin**, where I contribute to different kinds of project. My main job stack is Next.js, Typescript and Node.
+- 🚀 I also take on freelance projects, working with a variety of people.
 
 ---
 
