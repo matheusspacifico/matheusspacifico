@@ -38,9 +38,14 @@ Backend for a mobile app for discovering cultural events and tourist attractions
 
 ## 🌱 Open source
 
-### [rlsspec](https://github.com/matheusspacifico/rlsspec) · `in development`
+### [rlsspec](https://github.com/matheusspacifico/rlsspec) [![release](https://img.shields.io/github/v/release/matheusspacifico/rlsspec?style=flat-square&label=)](https://github.com/matheusspacifico/rlsspec/releases/latest)
 A Rust CLI that tests Postgres Row Level Security against a declared spec of who should see what.
-It reports leaked and hidden rows, builds a coverage matrix, and fails CI on regressions.
+It reports leaked and hidden rows, builds a coverage matrix, lints for common RLS mistakes, and fails CI on regressions.
+Ships as a single binary via Homebrew, crates.io, Docker and a GitHub Action.
+
+```sh
+brew install matheusspacifico/tap/rlsspec   # or: cargo install rlsspec --locked
+```
 
 `Rust` `PostgreSQL`
 
