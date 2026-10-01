@@ -6,7 +6,7 @@ Most of my work lives in private repositories. The contribution graph below coun
 - 🏛️ Building a strategic-management platform for Brazil's **Ministry of Health** at **PACTO**
 - 🚀 Founder of a **B2B legal-tech SaaS** in stealth, launching soon
 - 🎓 Systems Analysis and Development at **IFSP** (Federal Institute of São Paulo)
-- 📈 5,000+ commits in 2026 across work, freelance, open source and my own product
+- 📈 4,000+ commits in 2026 across work, freelance, open source and my own product
 
 ---
 
